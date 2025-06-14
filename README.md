@@ -7,11 +7,11 @@
       </p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="160"/>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Backend Animation" width="160"/>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="tech gif" width="320"/>
     </td>
   </tr>
 </table>
+
 
 <h3 align="center">A passionate MERN-stack developer and DSA enthusiast from India 🇮🇳</h3>
 

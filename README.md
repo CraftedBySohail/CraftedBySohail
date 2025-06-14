@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **Video Calling Web App**  
+- 🔭 Currently working on: **Socket Programming**  
 - 🌱 Learning: **React, Node.js, Express, MongoDB**  
 - 👯 Open to collaborate on: **MERN Stack Projects & DSA Challenges**  
 - 💬 Ask me about: **LeetCode, React.js, Express.js, Full Stack Projects**  

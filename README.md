@@ -1,78 +1,88 @@
-<!-- Animated Intro with GIF -->
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=false&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sohail+Khan;MERN+Stack+Developer;C%2B%2B+DSA+Enthusiast;Building+Tech+for+Tomorrow" alt="Typing SVG" />
-      </p>
-    </td>
-    <td>
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="tech gif" width="320"/>
-    </td>
-  </tr>
-</table>
-
-
-<h3 align="center">A passionate MERN-stack developer and DSA enthusiast from India 🇮🇳</h3>
+<!-- Responsive Animated Header with Professional GIF -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=craftedbysohail&label=Profile%20views&color=007ACC&style=flat" alt="craftedbysohail" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Sohail+Khan;MERN+Stack+Developer;C%2B%2B+DSA+Enthusiast;Building+Tech+for+Tomorrow" alt="Typing SVG Animated Heading" />
 </p>
 
----
 
-### 🚀 About Me
 
-- 🔭 Currently working on: **Socket Programming**  
-- 🌱 Learning: **React, Node.js, Express, MongoDB**  
-- 👯 Open to collaborate on: **MERN Stack Projects & DSA Challenges**  
-- 💬 Ask me about: **LeetCode, React.js, Express.js, Full Stack Projects**  
-- 📫 Reach me at: **sohailkhanwps@gmail.com**
+<h3 align="center">MERN Stack Developer | C++ DSA Enthusiast | Building Tech for Tomorrow</h3>
 
----
-
-### 🧩 Tech Stack
-
-#### 💻 Languages & Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-</p>
-
-#### 🛠 Backend & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sohail-khan-839905300/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sohailkhanwps@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/sohailtech/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sohailkvvzo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=craftedbysohail&label=Profile%20views&color=007ACC&style=flat-square" alt="Profile views" />
+</p>
+
+
+---
+
+## 🚀 About Me
+
+- 🔭 Working on: **Socket Programming, Real-Time Web Apps**
+- 🌱 Currently learning: **Advanced React, TypeScript, MongoDB, Cloud Deployment**
+- 👯 Collaborating: **MERN Stack Projects, DSA Challenges**
+- 💬 Ask me about: **LeetCode, React.js, Express.js, Full Stack Projects**
+- 📫 Email: **sohailkhanwps@gmail.com**
+- 🏆 Fun fact: I love clean code, problem-solving, and community learning.
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Languages & Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="32" alt="Tailwind CSS"/>
+
+
+</p>
+
+### Backend & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=craftedbysohail&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=craftedbysohail&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=craftedbysohail&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=craftedbysohail&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: [sohail-khan-839905300](https://www.linkedin.com/in/sohail-khan-839905300/)
+- Email: [sohailkhanwps@gmail.com](mailto:sohailkhanwps@gmail.com)
+- LeetCode: [sohailtech](https://leetcode.com/u/sohailtech/)
+- GeeksforGeeks: [sohailkvvzo](https://auth.geeksforgeeks.org/user/sohailkvvzo/)
+
+---
+
+<p align="center">
+  <b>Let's connect, collaborate, and build something great!</b>
 </p>
